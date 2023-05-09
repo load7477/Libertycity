@@ -1,4 +1,11 @@
 # Libertycity
+
+<br />
+<br />
+EN : Empty files will be uploaded step by step<br />
+KR : 빈 파일은 단계별로 업로드됩니다.
+
+
 <br />
 <br />
 route ( 경로 ) 
@@ -43,9 +50,3 @@ route ( 경로 )
 │  ├─websocket<br />
 │  └─__pycache__<br />
 ├─load_getscript<br />
-
-<br />
-<br />
-EN : Empty files will be uploaded step by step<br />
-KR : 빈 파일은 단계별로 업로드됩니다.
-
