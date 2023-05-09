@@ -2,55 +2,47 @@
 <br />
 <br />
 route ( 경로 ) 
-
-├─hologramspeed_
-│  ├─data
-│  ├─stream
-│  └─ui
-│      ├─css
-│      │  └─themes
-│      ├─fonts
-│      └─js
-├─libertycity.auth
-├─libertycity.bubble
-│  ├─client
-│  ├─server
-│  └─stream
-├─libertycity.chagnename
-├─libertycity.chat
-│  └─nui
-├─libertycity.hudui
-│  └─nui
-├─libertycity.inventory
-│  └─img
-│      └─items
-├─libertycity.lonpccar
-├─libertycity.lottery
-├─libertycity.mainweb
-│  ├─static
-│  │  ├─css
-│  │  └─img
-│  ├─templates
-│  │  ├─error
-│  │  ├─news
-│  │  └─support
-│  ├─utils
-│  │  └─__pycache__
-│  └─__pycache__
-├─libertycity.privatechat
-│  ├─.vs
-│  │  └─flask-chat-app3
-│  │      ├─config
-│  │      └─v16
-│  └─templates
-├─libertycity.riotpayclient
-│  └─templates
-├─libertycity.rythmgame
-├─libertycity.websocketclient
-│  ├─utils
-│  ├─websocket
-│  └─__pycache__
-├─load_getscript
+<br />
+<br />
+├─hologramspeed_<br />
+│  ├─data<br />
+│  ├─stream<br />
+│  └─ui<br />
+│      ├─css<br />
+│      │  └─themes<br />
+│      ├─fonts<br />
+│      └─js<br />
+├─libertycity.auth<br />
+├─libertycity.bubble<br />
+│  ├─client<br />
+│  ├─server<br />
+│  └─stream<br />
+├─libertycity.chagnename<br />
+├─libertycity.chat<br />
+│  └─nui<br />
+├─libertycity.hudui<br />
+│  └─nui<br />
+├─libertycity.inventory<br />
+│  └─img<br />
+│      └─items<br />
+├─libertycity.lonpccar<br />
+├─libertycity.lottery<br />
+├─libertycity.mainweb<br />
+│  ├─static<br />
+│  │  ├─css<br />
+│  │  └─img<br />
+│  ├─templates<br />
+│  │  ├─error<br />
+│  │  ├─news<br />
+│  │  └─support<br />
+│  ├─utils<br />
+│  │  └─__pycache__<br />
+│  └─__pycache__<br />
+├─libertycity.websocketclient<br />
+│  ├─utils<br />
+│  ├─websocket<br />
+│  └─__pycache__<br />
+├─load_getscript<br />
 
 <br />
 <br />
